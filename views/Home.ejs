@@ -1,0 +1,22 @@
+<html>
+    <head>
+        <title>Stripe Payment test</title>
+    </head>
+
+    <body>
+        <h3>Welcome to my Payment Gateway</h3>
+        <form action="payment" method="post">
+            <script
+                src="//checkout.stripe.com/v2/checkout.js"
+                class="stripe-button"
+                data-key="<%= key %>"
+                data-amount="7000"
+                data-currency="usd"
+                data-name="baleashvar"
+                data-description="but complete course"
+                data-locale="auto"
+            ></script>
+
+        </form>
+    </body>
+</html>
