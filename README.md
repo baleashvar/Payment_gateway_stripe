@@ -1,5 +1,5 @@
 
-<strong>**Payment Gateway Using Stripe**</strong>
+__Payment Gateway Using Stripe__
 
 This repository contains the code for a payment gateway implementation using Stripe. The project is built using Express.js, EJS, Node.js, and Nodemon for development. The application allows users to make payments using the Stripe payment platform.
 
