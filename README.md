@@ -51,9 +51,9 @@ Visit http://localhost:3000 in your web browser to access the application.
 Screenshots
 Here are some screenshots of the application:
 
-![Welcome page](images/stripe_ss0.png)
-![Enter Values](images/stripe_ss.png)
-![Payment test successful](images/stripe_ss1.png)
+![Welcome page](<Images/Screenshot from 2023-08-27 00-37-00.png>))
+![Enter Values](<Images/Screenshot from 2023-08-27 00-39-31.png>))
+![Payment test successful](<Images/Screenshot from 2023-08-27 00-39-59.png>))
 
 
 Contributing
